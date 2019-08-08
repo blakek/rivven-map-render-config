@@ -1,7 +1,6 @@
 worlds['Rivven'] = './Rivven'
 outputdir = './map-output'
 rendermode = 'smooth_lighting'
-texturepath = './vanilla-textures-1.13.2'
 
 renders['rivvenOverworld'] = {
         'dimension': 'overworld',
